@@ -1,0 +1,66 @@
+psd to html/ psd to bootstrap
+psd to html responsive with bootstrap
+
+html, css, bootstrap, js / jq
+
+fonts----------
+ font-family: "PT Sans", sans-serif;
+
+
+ color--------
+ black  #898989
+ ash    #898989
+ yel    #fcdboo
+
+
+
+ ==================(ei srceen gulute check korle baki gulute automatic thik hoye jabe)
+ xxl       1440    (project complete hower por chech korbo   -1600   -1800   -   2100)
+ xl        1200
+ lg        1024
+
+ md         768
+
+
+ sm        576
+ col       320
+
+
+ header---------------
+
+           xxl/xl/lg     md      sm/col
+menu          22         22       
+
+
+slider----------------
+
+         xxl/xl/lg     md      sm/col
+h1         32          32       25
+h2         20          20       18
+p          16          16       16/15
+icon       42          42       35
+pb         100         100      60
+menu                         
+
+ pt sans
+    bold
+    reg
+
+
+padding================================
+
+           xxl/xl/lg        md          sm/col
+             100-120        80        50-70
+
+
+hedaer  t-b   20            20          10
+
+Slider
+              100           100         50-70
+
+
+feature----contact
+                  
+
+pt            100           80          50
+pb            120          100          70
